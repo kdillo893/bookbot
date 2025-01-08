@@ -1,3 +1,9 @@
+# books directory: not my things
+books/
+
+
+# AUTO-GENERATED THINGS BELOW
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
